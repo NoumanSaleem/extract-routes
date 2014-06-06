@@ -1,0 +1,31 @@
+{
+  "name": "extract-routes",
+  "version": "1.0.0",
+  "description": "Extract routes from an express.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NoumanSaleem/extract-routes.git"
+  },
+  "keywords": [
+    "express",
+    "routes",
+    "extract"
+  ],
+  "author": "Nouman Saleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoumanSaleem/extract-routes/issues"
+  },
+  "homepage": "https://github.com/NoumanSaleem/extract-routes",
+  "devDependencies": {
+    "express": "^4.3.0",
+    "mocha": "^1.19.0"
+  },
+  "dependencies": {
+    "should": "^4.0.1"
+  }
+}
