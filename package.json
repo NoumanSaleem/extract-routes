@@ -1,6 +1,6 @@
 {
   "name": "extract-routes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract routes from an express.js application",
   "main": "index.js",
   "scripts": {
